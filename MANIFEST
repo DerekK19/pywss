@@ -1,0 +1,7 @@
+LICENSE
+README
+setup.py
+pywss\__init__.py
+pywss\client.py
+pywss\server.py
+pywss\utilities.py
